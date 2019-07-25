@@ -13,6 +13,12 @@ class About extends Component {
             description: "In progress...",
             time:"May 2022"
           }}/>
+          <AboutItem item={{
+            title:"University of Texas at Austin",
+            position:"Dept. of Biomedical Engineering Intern",
+            description: "Contributed to the development of systems for cancer treatment using interferon-alpha. Worked as a lab assistant with Prof. Peppas, member of the National Academies of Medicine and Engineering. Helped in the design and preparation new biopolymeric carrier to be used in vehicles for therapeutic protein delivery",
+            time:"Summer 2016"
+          }}/>
       </div>
     );
   }
