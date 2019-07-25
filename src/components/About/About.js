@@ -10,7 +10,7 @@ class About extends Component {
           <AboutItem item={{
             title:"Texas A&M University",
             position:"Bachelor's in Computer Science",
-            description: "In progress...",
+            description: "Relevant coursework: Engineering Lab Computation (Python), Calculus l, Physics Lab, Calculus ll, Physics, Chemistry, Chemistry Lab",
             time:"May 2022"
           }}/>
           <AboutItem item={{
