@@ -30,7 +30,7 @@ body {
 
 .profile-image {
   height: 420px;
-  background-image: url('/prof.jpg');
+  background-image: url('../../prof.jpg');
   background-size: cover;
   background-position: center;
   margin-top: 20px;
